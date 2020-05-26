@@ -19,7 +19,7 @@
     ],
     "require": {
         "php": ">=5.5.18",
-        "laravel/framework": ">5.0.0",
+        "laravel/framework": "*",
         "hashids/hashids": "1.0.5"
     },
     "autoload": {
